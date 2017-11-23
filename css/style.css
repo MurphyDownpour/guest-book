@@ -1,0 +1,43 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: #ad123a;
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+#block{
+	max-width: 600px;
+	min-height: 100px;
+	background-color: #fff;
+	border-radius: 10px;
+}
+
+.textbox{
+	display: block;
+	resize: none;
+	min-width: 400px;
+	height: 200px;
+}
+
+.center-button{
+	display: block;
+	margin: auto;
+}
+
+#title>h1{
+	text-align: center;
+	color: #ad123a;
+}
+
+.record{
+	border: 1px solid black;
+}
+
+.record>h4{
+	margin: 0;
+	text-decoration: underline;
+}
